@@ -2,7 +2,7 @@
 
 This program will fetch all available **custom Florida license plate** combos with a given X length (1-3) by querying the Florida DMV website.
 
-![](https://imgur.com/a/iAKji7D)
+![](https://imgur.com/a/iAKji7D.jpg)
 
 ## Installation
 
